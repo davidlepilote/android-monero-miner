@@ -4,8 +4,8 @@
 
 <iframe src="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/externalStatus.html"/>
 
-<a href="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&tab=buildTypeStatusDiv"> 
-<img src="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon.svg"/>
+<a href="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner"> 
+<img src="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon"/>
 </a>
  
 # android-monero-miner
