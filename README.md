@@ -1,5 +1,6 @@
  [ ![Download](https://api.bintray.com/packages/smartnsoft/maven/directlinechatbot/images/download.svg) ](https://bintray.com/smartnsoft/maven/directlinechatbot/_latestVersion)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+ <img src="http://evgeny-goldin.org/teamcity/app/rest/builds/buildType:(id:bt54)/statusIcon"/>
 
 # android-monero-miner
 
