@@ -2,8 +2,8 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![TeamCity status](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon.svg)](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&tab=buildTypeStatusDiv)
 
-<a href="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&guest=1"> 
-<img src="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon"/>
+<a href="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/externalStatus.html"> 
+<img src="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/externalStatus.html"/>
 </a>
  
 # android-monero-miner
