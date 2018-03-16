@@ -1,6 +1,6 @@
 [![Download](https://api.bintray.com/packages/smartnsoft/maven/monerominer/images/download.svg)](https://bintray.com/smartnsoft/maven/monerominer/_latestVersion)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![TeamCity status](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon.svg)](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&tab=buildTypeStatusDiv)
+[![TeamCity status](https://ci.smartnsoft.com/app/rest/builds/buildType(id:android_monero_miner)/statusIcon)](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&tab=buildTypeStatusDiv)
 
 <a href="https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner"> 
 <img src="https://ci.smartnsoft.com/app/rest/builds/buildType(id:android_monero_miner)/statusIcon"/>
