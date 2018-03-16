@@ -1,7 +1,7 @@
  [ ![Download](https://api.bintray.com/packages/smartnsoft/maven/directlinechatbot/images/download.svg) ](https://bintray.com/smartnsoft/maven/directlinechatbot/_latestVersion)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- <img src="http://evgeny-goldin.org/teamcity/app/rest/builds/buildType:(id:bt54)/statusIcon"/>
-
+ [![](http://teamcity.jetbrains.com/app/rest/builds/buildType:TeamCityPluginsByJetBrains_CommitStatusPublisher_TeamCity100x/statusIcon.svg)](https://teamcity.jetbrains.com/viewType.html?buildTypeId=TeamCityPluginsByJetBrains_CommitStatusPublisher_TeamCity100x)
+ 
 # android-monero-miner
 
 A minimal SDK that lets an integrator add a [Monero](http://monero.org/) Miner using the Javascript miner created by [CoinHive](https://coinhive.com/).
