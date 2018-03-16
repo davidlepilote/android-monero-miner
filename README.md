@@ -1,4 +1,5 @@
  [ ![Download](https://api.bintray.com/packages/smartnsoft/maven/directlinechatbot/images/download.svg) ](https://bintray.com/smartnsoft/maven/directlinechatbot/_latestVersion)
+ [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 # android-monero-miner
 
