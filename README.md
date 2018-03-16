@@ -1,6 +1,6 @@
  [ ![Download](https://api.bintray.com/packages/smartnsoft/maven/directlinechatbot/images/download.svg) ](https://bintray.com/smartnsoft/maven/directlinechatbot/_latestVersion)
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
- [![TeamCity (simple build status)](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon.svg)
+ [![TeamCity status](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner/statusIcon.svg)](https://ci.smartnsoft.com/viewType.html?buildTypeId=android_monero_miner&tab=buildTypeStatusDiv)
  
 # android-monero-miner
 
